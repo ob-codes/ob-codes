@@ -5,13 +5,13 @@
   <a href="https://twitter.com/ob_thoughts" target="blank"><img src="https://img.shields.io/twitter/follow/ob_thoughts?logo=twitter&style=for-the-badge" alt="ob_thoughts" /></a> 
 </p>-->
 
-- 🔭 I’m currently working on [Ride Share App](https://www.sastiride.com/)
+- 🔭 Currently working on [Ride Share App](https://www.sastiride.com/)
 
-- 🌱 I’m looking for a  **Full Stack Developer** role
+- 🌱 Looking for a  **Full Stack Developer** role
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 Currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://obcode.netlify.app/](https://obcode.netlify.app/)
+- 👨‍💻 My projects are available at [https://obcode.netlify.app/](https://obcode.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, and Coding Challenges**
 
